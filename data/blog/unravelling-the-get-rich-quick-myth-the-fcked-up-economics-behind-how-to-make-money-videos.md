@@ -1,10 +1,10 @@
 ---
 title: 'Unravelling Easy Money: The F*cked Up Economics Behind "How To Make Money" Videos'
 date: '2023-07-25'
-tags: []
+tags: ['Money', 'Purpose', 'Success', 'Economics']
 draft: false
 summary:
-images: []
+images: ['/static/images/time-machine.jpg']
 layout: PostLayout
 canonicalUrl:
 ---
