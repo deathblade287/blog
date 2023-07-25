@@ -4,7 +4,7 @@ const siteMetadata = {
   headerTitle: "Aviral's Blog",
   description: 'Writings dedicated to the dystopian world',
   language: 'en-us',
-  theme: 'system', // system, dark or light
+  theme: 'dark', // system, dark or light
   siteUrl: 'https://blog.aviraldhingra.com',
   siteRepo: 'https://github.com/AviralDhingra/blog',
   siteLogo: '/static/images/logo.png',
