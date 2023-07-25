@@ -9,7 +9,7 @@ const siteMetadata = {
   siteRepo: 'https://github.com/AviralDhingra/blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
-  socialBanner: '/static/images/twitter-card.png',
+  socialBanner: '/static/images/time-machine.jpg',
   email: 'aviral.dhingra.2008@gmail.com',
   github: 'https://github.com/AviralDhingra',
   twitter: 'https://twitter.com/HeydayAcolyte',
