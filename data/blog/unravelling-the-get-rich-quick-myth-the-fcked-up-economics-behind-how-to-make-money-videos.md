@@ -3,7 +3,7 @@ title: 'Unravelling Easy Money: The F*cked Up Economics Behind "How To Make Mone
 date: '2023-07-25'
 tags: ['Money', 'Purpose', 'Success', 'Economics']
 draft: false
-summary:
+summary: Exploring how trends like dropshipping and amazon fba are not what will make you truly wealthy or even slightly rich.
 images: ['/static/images/time-machine.jpg']
 layout: PostLayout
 canonicalUrl:
