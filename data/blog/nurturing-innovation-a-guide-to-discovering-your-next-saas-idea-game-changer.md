@@ -1,5 +1,5 @@
 ---
-title: 'Nurturing Innovation: A Guide to Discovering Your Next SaaS Idea (Game Changer)'
+title: 'Nurturing Innovation: A Guide to Discovering Your Next SaaS Idea'
 date: '2023-07-25'
 tags: ['Saas', 'Innovation', 'Guide']
 draft: false
