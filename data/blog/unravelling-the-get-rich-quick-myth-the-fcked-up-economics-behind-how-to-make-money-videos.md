@@ -25,7 +25,7 @@ Let's look at an example. If a video proposes dropshipping as an easy way to mak
 
 The journey to wealth is a marathon, not a sprint. This reality becomes clearer when you understand the basic principle of supply and demand. When there is a high supply (a large number of people offering the same product/service), but demand is not proportionately high, the market becomes crowded and profitability decreases.
 
-For instance, let's assume that after watching a popular video, 1,000,000 people start selling a product at a price of $10 to earn a profit of $5 per item. However, due to an oversupply, to attract customers, sellers start to decrease their prices. As the price drops to $7, the profit margin now shrinks to $2. As more and more sellers enter the market and continue lowering prices, profitability plummets.
+For instance, let's assume that after watching a popular video, 1,000,000 people start selling a product at a price of 10 to earn a profit of 5 per item. However, due to an oversupply, to attract customers, sellers start to decrease their prices. As the price drops to 7, the profit margin now shrinks to 2. As more and more sellers enter the market and continue lowering prices, profitability plummets.
 
 ## The Truth About Wealth: Pursuing Economic Integrity Over Fast Riches
 
