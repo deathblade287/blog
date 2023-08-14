@@ -1,7 +1,7 @@
 ---
 title: A 200 word essay on why I should be allowed to talk in english class
 date: '2023-07-27'
-tags: []
+tags: ['random', 'life']
 draft: false
 summary: Today in english class my teacher told me and my friends that if we write a 200 word persuassive essay on why we should be allowed to talk in class, she'll let us do so. I didn't share this with her since I don't know how sportingly she will take it. However writing this essay, I felt like I voiced out many concerns that a lot of students want to raise but don't in a relatively small-form content.
 images: []
