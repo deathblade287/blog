@@ -21,7 +21,7 @@ export default function Home({ posts }) {
       <PageSEO title={siteMetadata.title} description={siteMetadata.description} />
 
       <div className="divide-y divide-gray-200 dark:divide-gray-700">
-        <div className="space-y-2 pt-6 pb-8 text-center md:space-y-5">
+        <div className="space-y-2 pb-8 pt-6 text-center md:space-y-5">
           <h2 className="sm:text-1xl font-serif text-xl font-extralight leading-9 tracking-tight text-gray-900 dark:text-gray-400 sm:leading-10 md:text-3xl md:leading-14"></h2>
           <h1 className=" text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
             {siteMetadata.headerTitle}
