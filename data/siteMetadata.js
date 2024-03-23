@@ -2,26 +2,23 @@ const siteMetadata = {
   title: "Aviral's Blog",
   author: 'Aviral Dhingra',
   headerTitle: "Aviral's Blog",
-  description: 'Writings dedicated to the dystopian world',
+  description: 'Programming, Life & More',
   language: 'en-us',
   theme: 'dark', // system, dark or light
   siteUrl: 'https://blog.aviraldhingra.com',
   siteRepo: 'https://github.com/AviralDhingra/blog',
   siteLogo: '/static/images/logo.png',
-  image: '/static/images/avatar.png',
+  image: '/static/images/avatar.jpg',
   socialBanner: '/static/images/time-machine.jpg',
   email: 'aviral.dhingra.2008@gmail.com',
-  github: 'https://github.com/AviralDhingra',
-  twitter: 'https://twitter.com/HeydayAcolyte',
+  github: 'https://github.com/deathblade287',
+  twitter: 'https://twitter.com/deathblade287',
   // facebook: 'https://facebook.com',
   // youtube: 'https://www.youtube.com/@deathblade287',
   linkedin: 'https://www.linkedin.com/in/aviral-dhingra-328392212/',
   locale: 'en-US',
   // NOTE: Add your google analytics tracking ID here when setup
   analytics: {
-    // If you want to use an analytics provider you have to add it to the
-    // content security policy in the `next.config.js` file.
-    // supports plausible, simpleAnalytics, umami or googleAnalytics
     plausibleDataDomain: '', // e.g. tailwind-nextjs-starter-blog.vercel.app
     simpleAnalytics: false, // true or false
     umamiWebsiteId: '', // e.g. 123e4567-e89b-12d3-a456-426614174000
@@ -35,10 +32,6 @@ const siteMetadata = {
   },
   // NOTE: Fill when you need a commenting system for your blog (constant posting is needed so not now)
   comment: {
-    // If you want to use a commenting system other than giscus you have to add it to the
-    // content security policy in the `next.config.js` file.
-    // Select a provider and use the environment variables associated to it
-    // https://vercel.com/docs/environment-variables
     provider: '', // supported providers: giscus, utterances, disqus
     giscusConfig: {
       // Visit the link below, and follow the steps in the 'configuration' section

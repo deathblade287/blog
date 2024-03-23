@@ -119,10 +119,10 @@ inquirer
       }
     })
   })
-  .catch((error) => {
-    if (error.isTtyError) {
-      console.log("Prompt couldn't be rendered in the current environment")
-    } else {
-      console.log('Something went wrong, sorry!')
-    }
-  })
+// .catch((error) => {
+//   if (error.isTtyError) {
+//     console.log("Prompt couldn't be rendered in the current environment")
+//   } else {
+//     console.log('Something went wrong, sorry!')
+//   }
+// })
