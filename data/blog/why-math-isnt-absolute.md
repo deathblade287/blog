@@ -3,7 +3,7 @@ title: why math isn't absolute
 date: '2022-04-08'
 tags: []
 draft: false
-summary: Discusses the inherent limitations of mathematics. He references Gödel's Incompleteness Theorem, which asserts that mathematics is incomplete, inconsistent, and undecidable.
+summary: a combination of theorms and ideas that prove math to be incomplete, inconsistent and undecidable
 images: []
 layout: PostLayout
 canonicalUrl:

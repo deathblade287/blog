@@ -3,7 +3,7 @@ title: embracing the sewage
 date: '2023-04-13'
 tags: []
 draft: false
-summary: A poem that expresses my thoughts on the path most leave untrodden.
+summary: a poem that expresses my thoughts on the path most leave untrodden.
 images: []
 layout: PostLayout
 canonicalUrl:
