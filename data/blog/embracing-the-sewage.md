@@ -1,7 +1,7 @@
 ---
-title: Embracing the Sewage
+title: embracing the sewage
 date: '2023-04-13'
-tags: ['Purpose', 'Life', 'Poem', 'Purpose', 'Philosophy']
+tags: []
 draft: false
 summary: A poem that expresses my thoughts on the path most leave untrodden.
 images: []

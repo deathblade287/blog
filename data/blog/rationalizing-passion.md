@@ -1,9 +1,9 @@
 ---
-title: 'Choosing the Right Problem to Solve: A Guide to Finding Your Purpose'
+title: 'rationalizing passion'
 date: '2023-04-6'
-tags: ['Guide', 'Purpose', 'Philosophy', 'Innovation']
+tags: []
 draft: false
-summary: Discusses the importance of the impact of one's work in defining their purpose. He uses the concept of Ikigai and contemporary philosophy to argue that creating value and impact can lead to monetization and fulfillment. Dhingra suggests that passion is a result of continuous practice and proficiency, and that one can become passionate and adept at any skill.
+summary: logicizing my way through find a purpose (probably wrong)
 images: ['/static/images/ikigai.jpg']
 authors: ['default']
 ---

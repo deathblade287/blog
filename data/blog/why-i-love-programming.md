@@ -1,9 +1,9 @@
 ---
-title: Why I Love Programming
+title: why i love programming
 date: '2024-03-30'
-tags: ['Philosophy']
+tags: []
 draft: false
-summary: what programming means to me.
+summary:
 images: []
 layout: PostLayout
 canonicalUrl:

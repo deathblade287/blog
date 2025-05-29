@@ -1,11 +1,13 @@
 ---
-title: 'A guide to distro hopping (btw i use arch)'
+title: 'a guide to distro hopping (btw i use arch)'
 date: '2024-03-31'
-tags: ['Guide', 'Linux', 'Tech']
+tags: []
 draft: false
-summary: How you can create your own operating system, truly your own - linux in all it's glory.
+summary: finding your place in the linux world
 authors: ['default']
 ---
+
+NOTE : OUTDATED. I'M WORKING ON A NEW ONE
 
 I have been a Linux user for a while now, and distro hopping is a ~~hobby~~ addiction of mine. While many appreciate Linux for its functionality, ease of use in managing development environments, or its lightweight nature - I am drawn to its customizability. The ability to design my entire workstation to look and function exactly as I want it to is mindblowing to me (I know, I know, "average r/unixporn" user).
 

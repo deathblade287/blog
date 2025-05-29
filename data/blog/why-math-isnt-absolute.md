@@ -1,7 +1,7 @@
 ---
-title: Mathematics’ Intrinsic Shortcomings
+title: why math isn't absolute
 date: '2022-04-08'
-tags: ['Mathematics', 'Innovation']
+tags: []
 draft: false
 summary: Discusses the inherent limitations of mathematics. He references Gödel's Incompleteness Theorem, which asserts that mathematics is incomplete, inconsistent, and undecidable.
 images: []
